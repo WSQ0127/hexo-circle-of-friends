@@ -3,7 +3,7 @@
   "public": true,
   "builds": [
 
-    { "src": "path/to/server.js", "use": "vercel-node@12" }
+    { "src": "path/to/server.js", "use": "vercel-node@18" }
 
   ]
   "rewrites": [
