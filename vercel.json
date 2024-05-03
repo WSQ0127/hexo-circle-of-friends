@@ -1,11 +1,6 @@
 {
   "version": 2,
   "public": true,
-  "builds": [
-
-    { "src": "path/to/server.js", "use": "vercel-node@18.X" }
-
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
