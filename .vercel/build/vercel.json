@@ -1,0 +1,11 @@
+{
+
+    "version": 2,
+  
+    "builds": [
+  
+      { "src": "path/to/server.js", "use": "vercel-node@18" }
+  
+    ]
+  
+  }
